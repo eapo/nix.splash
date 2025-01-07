@@ -61,7 +61,7 @@ Rectangle {
 
         AnimatedImage {
             id: face
-            source: "images/cat.gif"
+            source: "images/splash.gif"
             paused: false
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
