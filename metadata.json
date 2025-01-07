@@ -2,15 +2,15 @@
 	"KPlugin": {
 		"Authors": [
 			{
-				"Email": "jaelenlwalker@icloud.com",
-				"Name": "Jaelen"
+				"Email": "root@valto.ro",
+				"Name": "eapo"
 			}
 		],
 		"Category": "",
-		"Description": "True Black Kuro for KDE Plasma 6",
-		"Id": "black-kuro",
+		"Description": "True Black eSplash for KDE Plasma 6",
+		"Id": "black-esplash",
 		"License": "GPLv2+",
-		"Name": "Black Kuro",
+		"Name": "Black eSplash",
 		"ServiceTypes": ["Plasma/LookAndFeel"],
 		"Version": "1.0",
 		"Website": ""
